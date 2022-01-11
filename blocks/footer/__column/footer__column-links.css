@@ -1,0 +1,6 @@
+.footer__column-links {
+  font-size: 18px;
+  line-height: 30px;
+  display: flex;
+  flex-direction: column;
+}
