@@ -1,3 +1,7 @@
 .video__iframe {
   padding: 0 10px;
 }
+
+iframe{
+  border-width: 0px;
+}
