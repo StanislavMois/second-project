@@ -1,0 +1,20 @@
+{
+  "name": "how-to-learn-main",
+  "version": "1.0.0",
+  "description": "---\r ## Описание проекта\r Данный проект описывает методы обучения с помощью которых можно повысить усвоение материала.\r ## Инструменты используемые в работе\r + Проект создан с использованием HTML и CSS.\r + В проекте используются Nested структура хранения файлов.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StanislavMois/second-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StanislavMois/second-project/issues"
+  },
+  "homepage": "https://github.com/StanislavMois/second-project#readme"
+}
